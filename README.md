@@ -36,7 +36,7 @@ See documentation for a description of all features.
 
 ## Documentation
 
-For documentation and examples visit <http://rokity.com/sbecky/>
+For more information and examples visit the [documentation](https://mich312.com/projects/sbecky/).
 
 <!--
 ## Authors
